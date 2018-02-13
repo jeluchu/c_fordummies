@@ -3,7 +3,7 @@
 
 **"For" es un bucle** muy potente que tiene varias formas de implementarlo, la forma más común es la siguiente: 
 ```sh
-for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; 'Incrementa la variable declarada')
+for ('Declara la variable'; 'Crea una condición límite'; 'Incrementa la variable declarada')
 ```
 ##
 
