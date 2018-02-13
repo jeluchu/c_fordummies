@@ -9,14 +9,14 @@ for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; '
 
 `malloc(size_t capacidad)`  
 
-Adjudica el espacio para un objeto, cuyo tamaño es especificado por "capacidad" (por ejemplo puede ser un double). 
+**Adjudica el espacio para un objeto**, cuyo tamaño es especificado por "capacidad" (por ejemplo puede ser un double). 
 
 ##
 
 
 `realloc(*nombre, size_t double)`   
 
-Cambia el tamaño del objeto que punta a nombre, por el tamaño que se especifica en double. Si el valor "nombre", es NULL, la función realloc se comporta a igual que la función "malloc" para el tamaño especificado.
+**Cambia el tamaño** del objeto que punta a nombre, por el tamaño que se especifica en double. Si el valor "nombre", es NULL, la función realloc se comporta a igual que la función "malloc" para el tamaño especificado.
 
 ##
 
@@ -24,7 +24,7 @@ Cambia el tamaño del objeto que punta a nombre, por el tamaño que se especific
 
 Retorna el carácter siguiente desde el stream de entrada apuntando por el **stream**.  
 
-(FILE *stream), es una variable con un flujo de fichero. Si llega al final de fichero o hubiera algún error (-1), la función devuelve EOF.
+(FILE *stream), es una variable con un flujo de fichero. **Si llega al final de fichero o hubiera algún error (-1), la función devuelve EOF.**
 
 ##
 
@@ -34,7 +34,12 @@ Esta función envía el carácter especificado por c, en el stream de entrada ap
 
 Los caracteres apilados serán retornados por lecturas posteriores en ese stream en orden inverso al que fueron apilados.  
 
-Si la función ungetc es llamada demasiadas veces al mismo stream sin una lectura interventiva o una operación de posicionamiento de fichero en ese stream, entonces la operación falla. Tornando al valor EOF.
+**Si la función ungetc es llamada demasiadas veces** al mismo stream sin una lectura interventiva o una operación de posicionamiento de fichero en ese stream, **entonces la operación falla. Tornando al valor EOF.**
+
+##
+`EOF`  
+Es una **expresión constante y negativa**, que es retornada por varias funciones. Indica que no hay más datos de una entrada de un stream.
+
 
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)
 
