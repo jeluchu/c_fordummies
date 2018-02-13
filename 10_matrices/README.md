@@ -1,4 +1,12 @@
 ## MATRICES
+`for (int i; i<count; i++){code}`  
+
+**"For" es un bucle** muy potente que tiene varias formas de implementarlo, la forma más común es la siguiente: 
+```sh
+for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; 'Incrementa la variable declarada')
+```
+##
+
 `malloc(size_t capacidad)`  
 
 Adjudica el espacio para un objeto, cuyo tamaño es especificado por "capacidad" (por ejemplo puede ser un double). 
@@ -19,6 +27,14 @@ Retorna el carácter siguiente desde el stream de entrada apuntando por el **str
 (FILE *stream), es una variable con un flujo de fichero. Si llega al final de fichero o hubiera algún error (-1), la función devuelve EOF.
 
 ##
+
+` ungetc(char c, FILE *stream) `  
+
+Esta función envía el carácter especificado por c, en el stream de entrada apuntado por **stream**.  
+
+Los caracteres apilados serán retornados por lecturas posteriores en ese stream en orden inverso al que fueron apilados.  
+
+Si la función ungetc es llamada demasiadas veces al mismo stream sin una lectura interventiva o una operación de posicionamiento de fichero en ese stream, entonces la operación falla. Tornando al valor EOF.
 
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)
 
