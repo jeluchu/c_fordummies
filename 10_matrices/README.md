@@ -1,17 +1,29 @@
-## APUNTES
+## MATRICES
 `malloc(size_t capacidad)`  
 
 Adjudica el espacio para un objeto, cuyo tamaño es especificado por "capacidad" (por ejemplo puede ser un double). 
 
+
+----------
+
+
 `realloc(*nombre, size_t double)`   
 
 Cambia el tamaño del objeto que punta a nombre, por el tamaño que se especifica en double. Si el valor "nombre", es NULL, la función realloc se comporta a igual que la función "malloc" para el tamaño especificado.
+
+
+----------
+
 
 ` getc(FILE *stream) `  
 
 Retorna el carácter siguiente desde el stream de entrada apuntando por el **stream**.  
 
 (FILE *stream), es una variable con un flujo de fichero. Si llega al final de fichero o hubiera algún error (-1), la función devuelve EOF.
+
+
+----------
+
 
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)
 
