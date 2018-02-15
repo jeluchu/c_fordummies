@@ -1,7 +1,5 @@
 ## Introducción
-Comenzamos con **"C para Dummies"**, en el cuál según las cosas que voy aprendiendo de este lenguaje, iré subiéndolas a este repositorio. Si queréis ver ejemplos de todas estas lecciones, solo tendréis que dirigiros a [**"Programming"**](https://github.com/Jeluchu/programming).  
-
-Una vez dicho todo esto, comencemos con las nociones básicas de esta nueva lección. En este caso comenzaremos con **00_primitivas**, podrás ver ejemplos en [**"Primitivas"**](https://github.com/Jeluchu/programming/tree/master/2017/clase/00_primitivas).
+Aquí os dejo información sobre las librerías que usamos más comúnmente en el lenguaje de C, y además también inluyo una tabla de cada una en donde vienen sus funciones y para que contiene cada librería. Recordad que hago los apuntes según dónde programa, en Ubuntu. Recordad que no todos los sistemas opertivos disponen de todas las librerías existentes.
 ##
 ### #INCLUDE <STDIO.H>
 >Contiene tipos, macros y funciones para la realización de tareas de E/S.
@@ -90,6 +88,6 @@ strcat|strchr|strcmp|strcoll|strcpy|
 localtime|mktime|strftime|time|---------|
 ##
 
-  ![Icono GDM](./fotos/foto.png)
+![Icono GDM](./fotos/foto.png) 
 
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)
