@@ -19,4 +19,7 @@ Una vez dicho todo esto, comencemos con los primeros pasos antes de aprender a p
 
 >Al finalizar nuestro programa dentro de la función principal, el programa debe devolver al sistema un valor 0, lo que significará que ha terminado con éxito la ejecución del mismo. También, podemos ponerlo como **"EXIT_SUCCESSFUL".**
   ##
+
+![Icono GDM](./fotos/foto.png)
+
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)

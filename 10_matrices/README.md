@@ -5,7 +5,7 @@
 ### Bucle "FOR"
 `for (int i; i<count; i++){code}`  
 
->**"For" es un bucle** muy potente que tiene varias formas de implementarlo, la forma más común es la siguiente: 
+>**"For" es un bucle** muy potente que tiene varias formas de implementarlo, la forma más común es la siguiente:
 ```sh
 for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; 'Incrementa la variable declarada')
 ```
@@ -14,7 +14,7 @@ for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; '
 
 `malloc(size_t capacidad)`  
 
->**Adjudica el espacio para un objeto**, cuyo tamaño es especificado por "capacidad" (por ejemplo puede ser un double). 
+>**Adjudica el espacio para un objeto**, cuyo tamaño es especificado por "capacidad" (por ejemplo puede ser un double).
 
 ##
 
@@ -24,7 +24,7 @@ for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; '
 >**Cambia el tamaño** del objeto que punta a nombre, por el tamaño que se especifica en double. Si el valor "nombre", es NULL, la función realloc se comporta a igual que la función "malloc" para el tamaño especificado.
 
 ##
-### Retornar caracteres "GETCH" 
+### Retornar caracteres "GETCH"
 ` getc(FILE *stream) `  
 
 >Retorna el carácter siguiente desde el stream de entrada apuntando por el **stream**.  
@@ -47,6 +47,7 @@ for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; '
 >Es una **expresión constante y negativa**, que es retornada por varias funciones. Indica que no hay más datos de una entrada de un stream.
 
 ##
+
+![Icono GDM](./fotos/foto.png)
+
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)
-
-
