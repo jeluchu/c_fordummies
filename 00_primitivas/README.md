@@ -1,7 +1,7 @@
-﻿## Introducción
+## Introducción
 Comenzamos con **"C para Dummies"**, en el cuál según las cosas que voy aprendiendo de este lenguaje, iré subiéndolas a este repositorio. Si queréis ver ejemplos de todas estas lecciones, solo tendréis que dirigiros a [**"Programming"**](https://github.com/Jeluchu/programming).  
 
-Una vez dicho todo esto, comencemos con las nociones básicas de esta nueva lección. En este caso comenzaremos con **00_primitivas**, podrás ver ejemplos en [**"Primitivas"**](https://github.com/Jeluchu/programming/tree/master/2017/clase/00_primitivas). 
+Una vez dicho todo esto, comencemos con las nociones básicas de esta nueva lección. En este caso comenzaremos con **00_primitivas**, podrás ver ejemplos en [**"Primitivas"**](https://github.com/Jeluchu/programming/tree/master/2017/clase/00_primitivas).
 ##
 ### PRINTF
 `printf("Texto");`
@@ -18,12 +18,15 @@ Una vez dicho todo esto, comencemos con las nociones básicas de esta nueva lecc
 ##
 ### SCANF
  `scanf("%i", &valor);`  
- 
-Lee los datos de entrada en el stdin (flujo de entrada estándar). El Ampersand (&), se utiliza para indicar una dirección de memoria de la variable donde se almacenará el dato. Cuando se guardan de cadenas de caracteres, al tratarse de un array de tipo char, el & se omite.
+
+>Lee los datos de entrada en el stdin (flujo de entrada estándar). El Ampersand (&), se utiliza para indicar una dirección de memoria de la variable donde se almacenará el dato. Cuando se guardan de cadenas de caracteres, al tratarse de un array de tipo char, el & se omite.
   ##
   ### FSCANF
  `fscanf("%i", &valor);`  
- 
-Es similar a "Scanf", ya que lee los datos de entrada, pero lo lee en un flujo de entrada dado, por lo general un fichero en el stdin.
+
+>Es similar a "Scanf", ya que lee los datos de entrada, pero lo lee en un flujo de entrada dado, por lo general un fichero en el stdin.
   ##
+
+![Icono GDM](./fotos/avatar.png)
+
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)
