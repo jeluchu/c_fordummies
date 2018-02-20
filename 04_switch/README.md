@@ -29,6 +29,4 @@ switch(variable)
 ```
 ##
 
-  ![Icono GDM](./fotos/foto.png)
-
-> Escrito por [Jéluchu](https://http://jeluchu.github.io/)
+  ![Icono GDM](./fotos/superquinto.png)
