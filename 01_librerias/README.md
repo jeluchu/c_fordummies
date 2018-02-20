@@ -88,6 +88,4 @@ strcat|strchr|strcmp|strcoll|strcpy|
 localtime|mktime|strftime|time|---------|
 ##
 
-![Icono GDM](./fotos/superdos.png) 
-
-> Escrito por [Jéluchu](https://http://jeluchu.github.io/)
+![Icono GDM](./fotos/superdos.png)
