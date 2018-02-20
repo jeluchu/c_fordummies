@@ -1,5 +1,5 @@
 ## Introducción
-En esta breve lección, aprnderás a usar la condición, que en **"Lenguaje C"**, podemos ver que se llama **"IF"**, exactamente como en inglés los condicionales, que podríamos decir que traducido al español, sería, **"Sí..."**.
+En esta breve lección, aprenderás a usar la condición, que en **"Lenguaje C"**, podemos ver que se llama **"IF"**, exactamente como en inglés los condicionales, que podríamos decir que traducido al español, sería, **"Sí..."**.
 
 Es bastante sencillo, solo tenemos que poner IF, su condición, el código y además, si no cumple lo que queremos, con poner **"ELSE"**, diríamos que **"SINO"**, pues más código.
 
