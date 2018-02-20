@@ -26,7 +26,7 @@ switch(variable)
 	defalut: Código
 	break;
 }
-
+```
 ##
 
   ![Icono GDM](./fotos/foto.png)
