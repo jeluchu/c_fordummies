@@ -27,4 +27,4 @@ Una vez dicho todo esto, comencemos con las nociones básicas de esta nueva lecc
 >Es similar a "Scanf", ya que lee los datos de entrada, pero lo lee en un flujo de entrada dado, por lo general un fichero en el stdin.
   ##
 
-![Icono GDM](./fotos/foto.png)
+![Icono GDM](./fotos/superuno.png)
