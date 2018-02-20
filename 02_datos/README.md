@@ -37,6 +37,6 @@ Más adelante, podremos ver más tipos de datos, incluyendo variaciones en los a
 
 ##
 
-  ![Icono GDM](./fotos/foto.png)
+  ![Icono GDM](./fotos/supertres.png)
 
 > Escrito por [Jéluchu](https://http://jeluchu.github.io/)
