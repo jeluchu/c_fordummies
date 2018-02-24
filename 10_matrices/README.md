@@ -16,7 +16,7 @@ for ('Inicia declarando la variable'; 'Crea una condición a modo de límite'; '
 
 >**Adjudica el espacio para un objeto**, cuyo tamaño es especificado por "capacidad" (por ejemplo puede ser un double).
 
-##
+###
 
 
 `realloc(*nombre, size_t double)`   
